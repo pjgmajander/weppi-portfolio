@@ -49,8 +49,9 @@
         height: 35vh;
     }
     #profile {
-        height: 55vh; 
-        margin-bottom: 0;
+        height: auto;
+        min-height: 55vh; 
+        margin-bottom: 2rem;
     }
     article {
         font-size: 1rem;

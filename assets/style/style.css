@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'DMSans';
-  src: url('/assets/fonts/DMSans-VariableFont_opsz,wght.woff2') format('woff2');
+  src: url('../assets/fonts/DMSans-VariableFont_opsz,wght.woff2') format('woff2');
   font-weight: 1 1000; /* variable weight range */
   font-style: normal;
   font-display: swap;
@@ -10,7 +10,7 @@
 
 @font-face {
   font-family: 'DMSans';
-  src: url('/assets/fonts/DMSans-Italic-VariableFont_opsz,wght.woff2') format('woff2');
+  src: url('../assets/fonts/DMSans-Italic-VariableFont_opsz,wght.woff2') format('woff2');
   font-weight: 1 1000;
   font-style: italic;
   font-display: swap;

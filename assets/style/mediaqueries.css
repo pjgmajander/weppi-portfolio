@@ -97,4 +97,11 @@
     .text-container {
         text-align: justify;
     }
+      .text-container p {
+    text-align: left; 
+    text-justify: auto;
+    hyphens: auto;
+    word-spacing: normal;
+    letter-spacing: normal;
+  }
 }
